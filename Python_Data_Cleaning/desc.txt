@@ -1,0 +1,60 @@
+CustomerID
+Description: Unique identifier for each customer.
+
+Gender:
+Description: Gender of the customer (e.g., Male, Female).
+
+Location:
+Description: Location or address information of the customer.
+
+Tenure_Months:
+Description: Number of months the customer has been associated with the platform.
+
+Transaction_ID:
+Description: Unique identifier for each transaction.
+
+Transaction_Date:
+Description: Date of the transaction.
+
+Product_SKU:
+Description: Stock Keeping Unit (SKU) identifier for the product.
+
+Product_Description:
+Description: Description of the product.
+
+Product_Category:
+Description: Category to which the product belongs.
+
+Quantity:
+Description: Quantity of the product purchased in the transaction.
+
+Avg_Price:
+Description: Average price of the product.
+
+Delivery_Charges:
+Description: Charges associated with the delivery of the product.
+
+Coupon_Status:
+Description: Status of the coupon associated with the transaction.
+
+GST:
+Description: Goods and Services Tax associated with the transaction.
+
+Date:
+Description: Date of the transaction (potentially redundant with Transaction_Date).
+
+Offline_Spend:
+Description: Amount spent offline by the customer.
+
+Online_Spend:
+Description: Amount spent online by the customer.
+
+Month:
+Description: Month of the transaction.
+
+Coupon_Code:
+Description: Code associated with a coupon, if applicable.
+
+Discount_pct:
+Description: Percentage of discount applied to the transaction.
+
